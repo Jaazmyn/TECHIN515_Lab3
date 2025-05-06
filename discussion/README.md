@@ -1,6 +1,6 @@
 # Discussion
 - Questions and Answers
-    - [View Questions CSV](assets/SortingHat_Questions_and_Options.csv)
+    - [View Questions CSV](../assets/SortingHat_Questions_and_Options.csv)
 
 - Play with your sorting hat. Are all 10 questions important to create the sorting hat? If you were to remove some questions to improve user experience, which questions would you remove and justify your answer.
 
